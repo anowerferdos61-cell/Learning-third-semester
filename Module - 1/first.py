@@ -1,0 +1,2 @@
+print('ferdos')
+print('asha')
