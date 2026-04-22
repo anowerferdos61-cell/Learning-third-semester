@@ -1,0 +1,10 @@
+1- collum ? row ? koto ache ami jani nah . 
+2- kemon data / kon jinis er data setao jani nah .
+3- kothai kon data miss ache setao jani na . -> missing data 
+
+info() --> mathod .যার মাধ্যমে আমরা জানতে পারব। 
+১- how many row and. collum is there .
+2- what type of data. - int64,float64,str
+3- we also will know non-value data .
+4- memory useses of data .
+
