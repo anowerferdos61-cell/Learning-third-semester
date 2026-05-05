@@ -1,0 +1,26 @@
+[
+  {
+    "id": "BAFFF27AF",
+    "title": "Physical Chemistry",
+    "author": "Atkins",
+    "genre": "Chemistry",
+    "quantity": 3,
+    "available": 3
+  },
+  {
+    "id": "B3C392C22",
+    "title": "Clean Code",
+    "author": "Robert Martin",
+    "genre": "SE",
+    "quantity": 2,
+    "available": 2
+  },
+  {
+    "id": "BF56E91E2",
+    "title": "md",
+    "author": "anower",
+    "genre": "chemistry",
+    "quantity": 5,
+    "available": 5
+  }
+]

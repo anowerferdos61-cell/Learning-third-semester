@@ -1,0 +1,29 @@
+[
+  {
+    "id": "UCD5349EA",
+    "name": "Admin",
+    "email": "admin@lib.com",
+    "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "borrowed_book_ids": [],
+    "is_active": true
+  },
+  {
+    "id": "UB4055E89",
+    "name": "Anower",
+    "email": "anower@uni.com",
+    "password_hash": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c",
+    "role": "student",
+    "borrowed_book_ids": [],
+    "is_active": true
+  },
+  {
+    "id": "U044E775B",
+    "name": "anower ferdos",
+    "email": "ferdos@gamil.com",
+    "password_hash": "4e0227879fc12b66dc2571615a5466cb7bd2582efe1c00d888e35aa0cc254089",
+    "role": "student",
+    "borrowed_book_ids": [],
+    "is_active": true
+  }
+]

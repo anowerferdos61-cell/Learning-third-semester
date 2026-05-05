@@ -1,0 +1,12 @@
+[
+  {
+    "id": "T19197783",
+    "book_id": "BAFFF27AF",
+    "user_id": "UB4055E89",
+    "issue_date": "2026-05-05",
+    "due_date": "2026-05-12",
+    "return_date": "2026-05-05",
+    "fine": 0.0,
+    "status": "returned"
+  }
+]
